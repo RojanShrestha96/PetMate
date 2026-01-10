@@ -1,0 +1,97 @@
+# Logs
+logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+lerna-debug.log*
+
+node_modules
+dist
+dist-ssr
+*.local
+package-lock.json
+package.json
+        .eslintrc.cjs
+        .gitignore
+        index.html
+        postcss.config.js
+        server/
+        AdminSidebar.tsx
+        AdoptionModal.tsx
+        AdoptionSteps.tsx
+        ApplicationCard.tsx
+        ApplicationTimeline.tsx
+        Button.tsx
+        Chatbot.tsx
+        ConfirmDialog.tsx
+        DeleteConfirmModal.tsx
+        DocumentViewer.tsx
+        DragDropImageUpload.tsx
+        EditPetModal.tsx
+        EmailTemplate.tsx
+        EmptyState.tsx
+        FavouriteButton.tsx
+        FileUpload.tsx
+        FilterPanel.tsx
+        Footer.tsx
+        HamburgerMenu.tsx
+        ImageUpload.tsx
+        Input.tsx
+        LoadingSpinner.tsx
+        LogoutConfirmModal.tsx
+        MapView.tsx
+        MedicalRecord.tsx
+        MeetAndGreetModal.tsx
+        NotificationCenter.tsx
+        PasswordStrengthIndicator.tsx
+        PetCard.tsx
+        PetCarousel.tsx
+        PetGallery.tsx
+        ProgressStepper.tsx
+        SearchBar.tsx
+        ShelterCard.tsx
+        ShelterSidebar.tsx
+        SkeletonLoader.tsx
+        StatCard.tsx
+        ThemeSwitcher.tsx
+        Toast.tsx
+        ToggleSwitch.tsx
+        context/
+        index.css
+        index.tsx
+        AboutPage.tsx
+        AddPetPage.tsx
+        AdminDashboard.tsx
+        AdminSheltersPage.tsx
+        AdoptionRequestPage.tsx
+        ApplicationDetailPage.tsx
+        ApplicationTrackingPage.tsx
+        ApplicationsPage.tsx
+        DonatePage.tsx
+        FavouritesPage.tsx
+        LoginPage.tsx
+        MessagesPage.tsx
+        PetDetailPage.tsx
+        PetsManagementPage.tsx
+        SearchPage.tsx
+        SettingsPage.tsx
+        ShelterDashboard.tsx
+        SignUpPage.tsx
+        tailwind.config.js
+        tsconfig.json
+        tsconfig.node.json
+        vite.config.ts
+
+
+# Editor directories and files
+.vscode/*
+!.vscode/extensions.json
+.idea
+.DS_Store
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
